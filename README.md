@@ -1,5 +1,5 @@
-### Glad to see ya :heart: 
-<img src="https://sun9-7.userapi.com/c206624/v206624477/17f57b/ODTQnMyK-kU.jpg?raw=true">
+### Glad to see ya :heart:
+<img align="center" src="https://sun9-7.userapi.com/c206624/v206624477/17f57b/ODTQnMyK-kU.jpg?raw=true">
 <!--
 **MannerheimLine/MannerheimLine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
